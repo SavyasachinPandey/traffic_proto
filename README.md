@@ -1,2 +1,2 @@
 # traffic_proto
-Smart Traffic Management Systern for Urban Congestion
+Smart Traffic Management System for Urban Congestion
